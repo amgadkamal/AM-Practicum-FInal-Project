@@ -1,4 +1,4 @@
-//this is the source for the most of the style="overflow: hidden"    code,https://github.com/victordibia/handtrack.js/
+//this is the source for the most of the code,https://github.com/victordibia/handtrack.js/
 //this link helped me https://www.w3schools.com/graphics/game_controllers.asp
 
 //variables
